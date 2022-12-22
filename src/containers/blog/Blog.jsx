@@ -7,7 +7,7 @@ const Blog = () => {
   return (
     <div className='modernui__blog section__padding' id='blog'>
       <div className='modernui__blog-heading'>
-        <h1 className='gradient__text'>Alot is happeing, we are blogging about it</h1>
+        <h1 className='gradient__text'>Alot is happening, we are blogging about it</h1>
       </div>
       <div className='modernui__blog-container'>
         <div className='modernui__blog-container_groupA'>
