@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import './index.css';
 
-import {Article, Brand, Cta, Feature, Navbar} from './components';
+import { Brand, Cta, Navbar} from './components';
 import {Blog, Features, Footer, Header, Possibility, Whatmodern} from './containers';
 
 function App() {
